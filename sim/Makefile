@@ -1,4 +1,4 @@
-#Makefile for UVM Testbench - Router_PROJECT
+#Makefile for UVM Testbench - Router_PROJECT 1x3
 
 # SIMULATOR = Questa for Mentor's Questasim
 # SIMULATOR = VCS for Synopsys's VCS
